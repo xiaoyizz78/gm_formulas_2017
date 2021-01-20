@@ -1,6 +1,8 @@
 # An Analytical Formula Representing Mesophyll Resistance as a Property of a Complex Biophysical, Biochemical, and Anatomical System
 Components of mesophyll resistance and their reponses to light and CO<sub>2</sub> are systematically studied using a 3D cell model, a 3D leaf model and an explicit analytical formula.
-<img align="center" src="Fig1.png" width="500" height="423"> 
+<p align="center">
+	<img src="Fig1.png" width="500" height="423"> 
+</p>
 
 **[Reference]**
 Xiao Y, Zhu X-G. (2017) Components of mesophyll resistance and their environmenal responses: A theoretical modelling analysis. Plant, Cell & Environment.
