@@ -5,7 +5,7 @@ Components of mesophyll resistance and their reponses to light and CO<sub>2</sub
 </p>
 
 **[Reference]**
-Xiao Y, Zhu X-G. (2017) Components of mesophyll resistance and their environmenal responses: A theoretical modelling analysis. Plant, Cell & Environment.
+Xiao Y, Zhu X-G. (2017) Components of mesophyll resistance and their environmental responses: A theoretical modelling analysis. Plant, Cell & Environment.
 [https://doi.org/10.1111/pce.13040](https://doi.org/10.1111/pce.13040)
 
 ## Versioning  
